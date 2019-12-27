@@ -20,6 +20,7 @@ BOOTSTRAP3 = {
 }
 
 #Heroku settings
+import os
 cwd = os.getcwd()
 if cwd == "/app" or cwd[:4] == "/twp":
     import dj_database_url
@@ -39,7 +40,7 @@ STATIC_ROOT = "staticfiles"
 STATICFILES_DIR =(
     os.path.join(BASE_DIR, "static"),
 )
-import os
+
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
