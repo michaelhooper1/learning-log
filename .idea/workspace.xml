@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cefbddc4-c1ac-43f5-9dcf-3c5abcacdc42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -309,7 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577477174067</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="importing os">
+      <created>1577479442972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577479442972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="importing os">
+      <created>1577479733719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577479733719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -323,10 +336,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48875254" visible="true" weight="0.2515843" />
-      <window_info id="Structure" order="1" sideWeight="0.51124746" side_tool="true" weight="0.21649484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48594376" visible="true" weight="0.2515843" />
+      <window_info id="Structure" order="1" sideWeight="0.5140562" side_tool="true" visible="true" weight="0.2515843" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32833788" />
@@ -335,8 +347,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" internal_type="SLIDING" order="6" type="SLIDING" weight="0.3243607" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" x="11" y="197" width="1578" height="514" id="Terminal" internal_type="SLIDING" order="8" type="SLIDING" weight="0.44549125" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" x="11" y="197" width="1578" height="514" id="Terminal" internal_type="SLIDING" order="8" type="SLIDING" visible="true" weight="0.44549125" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50126743" side_tool="true" weight="0.33787465" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49873257" weight="0.32166892" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
